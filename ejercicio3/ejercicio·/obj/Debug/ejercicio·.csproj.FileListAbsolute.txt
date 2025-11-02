@@ -1,0 +1,16 @@
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\bin\Debug\ejercicio·.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\bin\Debug\ejercicio·.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\bin\Debug\ejercicio·.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\obj\Debug\ejercicio·.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\obj\Debug\ejercicio·.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\obj\Debug\ejercicio·.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\obj\Debug\ejercicio·.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio·\ejercicio·\obj\Debug\ejercicio·.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\bin\Debug\ejercicio·.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\bin\Debug\ejercicio·.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\bin\Debug\ejercicio·.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\obj\Debug\ejercicio·.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\obj\Debug\ejercicio·.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\obj\Debug\ejercicio·.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\obj\Debug\ejercicio·.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio3\ejercicio·\obj\Debug\ejercicio·.pdb
