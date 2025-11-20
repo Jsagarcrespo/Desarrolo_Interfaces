@@ -1,0 +1,22 @@
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe.config
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.pdb
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.AssemblyReference.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Form1.resources
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Properties.Resources.resources
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.GenerateResource.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.exe
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.pdb
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe.config
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.pdb
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.AssemblyReference.cache
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Form1.resources
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Properties.Resources.resources
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.GenerateResource.cache
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.CoreCompileInputs.cache
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.exe
+G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.pdb

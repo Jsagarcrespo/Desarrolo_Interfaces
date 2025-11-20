@@ -1,0 +1,11 @@
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\bin\Debug\AreaYvolumenes.exe.config
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\bin\Debug\AreaYvolumenes.exe
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\bin\Debug\AreaYvolumenes.pdb
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.csproj.AssemblyReference.cache
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.Form1.resources
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.Properties.Resources.resources
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.csproj.GenerateResource.cache
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.csproj.CoreCompileInputs.cache
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.exe
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.pdb
+C:\Users\148FA04\Desktop\Interfaces\Desarrolo_Interfaces\AreaYvolumenes\AreaYvolumenes\obj\Debug\AreaYvolumenes.exe.config

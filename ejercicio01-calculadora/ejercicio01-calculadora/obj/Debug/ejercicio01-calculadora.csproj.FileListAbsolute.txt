@@ -1,0 +1,11 @@
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe.config
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.pdb
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.AssemblyReference.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Form1.resources
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Properties.Resources.resources
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.GenerateResource.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.exe
+C:\Users\Hezitzaile\source\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.pdb
