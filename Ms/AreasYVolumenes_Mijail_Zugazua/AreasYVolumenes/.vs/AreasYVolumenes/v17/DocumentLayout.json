@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\controlador\\controladoroperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\controlador\\controladoroperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\modelo\\esfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\modelo\\esfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\modelo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\modelo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\modelo\\cubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\modelo\\cubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\modelo\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\modelo\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\desarrollo_interfaces\\areasyvolumenes_mijail_zugazua\\areasyvolumenes\\areasyvolumenes\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\areasyvolumenes\\vista\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2CDF3-BCE6-46F9-9FFE-67D120DF183C}|AreasYVolumenes\\AreasYVolumenes.csproj|solutionrelative:areasyvolumenes\\vista\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\modelo\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Rectangulo.cs",
+              "RelativeToolTip": "AreasYVolumenes\\modelo\\Rectangulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:24:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Circulo.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\modelo\\Circulo.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Circulo.cs",
+              "RelativeToolTip": "AreasYVolumenes\\modelo\\Circulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:24:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControladorOperacion.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\controlador\\ControladorOperacion.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\controlador\\ControladorOperacion.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\controlador\\ControladorOperacion.cs*",
+              "RelativeToolTip": "AreasYVolumenes\\controlador\\ControladorOperacion.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:21:03.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cubo.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Cubo.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\modelo\\Cubo.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Cubo.cs",
+              "RelativeToolTip": "AreasYVolumenes\\modelo\\Cubo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:24:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Esfera.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Esfera.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\modelo\\Esfera.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\modelo\\Esfera.cs",
+              "RelativeToolTip": "AreasYVolumenes\\modelo\\Esfera.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:24:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\vista\\Form1.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\vista\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "AreasYVolumenes\\vista\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:35:04.448Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\Program.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\Program.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\Program.cs",
+              "RelativeToolTip": "AreasYVolumenes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:48:05.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\vista\\Form1.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\vista\\Form1.cs*",
+              "RelativeToolTip": "AreasYVolumenes\\vista\\Form1.cs*",
+              "ViewState": "AgIAAJAAAAAAAAAAAAA2wMMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:37:21.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\vista\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AreasYVolumenes\\vista\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\AreasYVolumenes_Mijail_Zugazua\\AreasYVolumenes\\AreasYVolumenes\\vista\\Form1.Designer.cs*",
+              "RelativeToolTip": "AreasYVolumenes\\vista\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:23:42.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
