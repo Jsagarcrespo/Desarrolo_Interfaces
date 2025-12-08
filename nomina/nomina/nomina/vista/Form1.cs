@@ -1,4 +1,5 @@
-﻿using System;
+﻿using nomina.controlador;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,6 +19,8 @@ namespace nomina
         const float MARGIN_TB = 16.00f;
         const float MARGIN_LR = 128.00f;
         const float PADDING = 16.00f;
+
+        Controlador controlador = new Controlador();   
 
         public Form1()
         {
@@ -51,17 +54,44 @@ namespace nomina
 
         private void bCalcular_Click(object sender, EventArgs e)
         {
-            foreach (Control ctrl in tblModalidad.Controls)
+            try
             {
-                if (ctrl is RadioButton rb && rb.Checked)
-                {
-                    string valor = rb.Tag.ToString();
-                    MessageBox.Show("La nomina de: " + valor + " es: ");
-                    return;
-                }
+                General.Modalidad modalidad = General.Modalidad.ADMINISTRACION;
+
+                if (Radministracion.Checked)
+                    modalidad = General.Modalidad.ADMINISTRACION;
+                else if (RProduccion.Checked)
+                    modalidad = General.Modalidad.PRODUCCION;
+                else if (Rtecnico.Checked)
+                    modalidad = General.Modalidad.TECNICO;
+                if (Respecialista.Checked)
+                    modalidad = General.Modalidad.ESPECIALISTA;
+
+                MessageBox.Show( 
+                    controlador.CalcularNomina(
+                        modalidad,
+                        chkinscripcion.Checked,
+                        (int)numTrabajos.Value,
+                        (int)numHijos.Value),
+                    "Nomina desglosada"
+                    );
+            }
+            catch (Exception ex) {
+                MessageBox.Show(ex.Message, "Error de datos");
             }
 
-            MessageBox.Show("No seleccionaste ninguna opción");
+
+            //foreach (Control ctrl in tblModalidad.Controls)
+            //{
+            //    if (ctrl is RadioButton rb && rb.Checked)
+            //    {
+            //        string valor = rb.Tag.ToString();
+            //        MessageBox.Show("La nomina de: " + valor + " es: ");
+            //        return;
+            //    }
+            //}
+
+           //MessageBox.Show("No seleccionaste ninguna opción");
         }
     }
 }

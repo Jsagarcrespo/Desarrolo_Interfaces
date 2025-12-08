@@ -46,5 +46,12 @@ namespace nomina
             }
         }
 
+        public string CalcularNomina()
+        {
+            double total = sueldoModalidad + sueldoSindicato + sueldoHijos + sueldoAnisTrabajados;
+            return total.ToString(); 
+
+        }
+
     }
 }

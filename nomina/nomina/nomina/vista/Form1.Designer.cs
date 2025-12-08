@@ -60,9 +60,9 @@
             this.TBLPrincipal.Controls.Add(this.bCalcular, 0, 3);
             this.TBLPrincipal.Dock = System.Windows.Forms.DockStyle.Fill;
             this.TBLPrincipal.Location = new System.Drawing.Point(0, 0);
-            this.TBLPrincipal.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.TBLPrincipal.Margin = new System.Windows.Forms.Padding(2);
             this.TBLPrincipal.Name = "TBLPrincipal";
-            this.TBLPrincipal.Padding = new System.Windows.Forms.Padding(8, 8, 8, 8);
+            this.TBLPrincipal.Padding = new System.Windows.Forms.Padding(8);
             this.TBLPrincipal.RowCount = 4;
             this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 70F));
             this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle());
@@ -76,9 +76,9 @@
             this.gbModalidad.Controls.Add(this.tblModalidad);
             this.gbModalidad.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gbModalidad.Location = new System.Drawing.Point(10, 10);
-            this.gbModalidad.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gbModalidad.Margin = new System.Windows.Forms.Padding(2);
             this.gbModalidad.Name = "gbModalidad";
-            this.gbModalidad.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gbModalidad.Padding = new System.Windows.Forms.Padding(2);
             this.gbModalidad.Size = new System.Drawing.Size(470, 303);
             this.gbModalidad.TabIndex = 0;
             this.gbModalidad.TabStop = false;
@@ -94,7 +94,7 @@
             this.tblModalidad.Controls.Add(this.Respecialista, 0, 3);
             this.tblModalidad.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tblModalidad.Location = new System.Drawing.Point(2, 15);
-            this.tblModalidad.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tblModalidad.Margin = new System.Windows.Forms.Padding(2);
             this.tblModalidad.Name = "tblModalidad";
             this.tblModalidad.RowCount = 4;
             this.tblModalidad.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -109,7 +109,7 @@
             this.RProduccion.AutoSize = true;
             this.RProduccion.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.RProduccion.Location = new System.Drawing.Point(2, 103);
-            this.RProduccion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.RProduccion.Margin = new System.Windows.Forms.Padding(2);
             this.RProduccion.Name = "RProduccion";
             this.RProduccion.Size = new System.Drawing.Size(462, 17);
             this.RProduccion.TabIndex = 0;
@@ -122,7 +122,7 @@
             // 
             this.Radministracion.AutoSize = true;
             this.Radministracion.Location = new System.Drawing.Point(2, 124);
-            this.Radministracion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Radministracion.Margin = new System.Windows.Forms.Padding(2);
             this.Radministracion.Name = "Radministracion";
             this.Radministracion.Size = new System.Drawing.Size(93, 17);
             this.Radministracion.TabIndex = 1;
@@ -135,7 +135,7 @@
             // 
             this.Rtecnico.AutoSize = true;
             this.Rtecnico.Location = new System.Drawing.Point(2, 145);
-            this.Rtecnico.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Rtecnico.Margin = new System.Windows.Forms.Padding(2);
             this.Rtecnico.Name = "Rtecnico";
             this.Rtecnico.Size = new System.Drawing.Size(64, 17);
             this.Rtecnico.TabIndex = 2;
@@ -149,7 +149,7 @@
             // 
             this.Respecialista.AutoSize = true;
             this.Respecialista.Location = new System.Drawing.Point(2, 166);
-            this.Respecialista.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Respecialista.Margin = new System.Windows.Forms.Padding(2);
             this.Respecialista.Name = "Respecialista";
             this.Respecialista.Size = new System.Drawing.Size(81, 17);
             this.Respecialista.TabIndex = 3;
@@ -163,7 +163,7 @@
             this.chkinscripcion.AutoSize = true;
             this.chkinscripcion.Dock = System.Windows.Forms.DockStyle.Fill;
             this.chkinscripcion.Location = new System.Drawing.Point(10, 317);
-            this.chkinscripcion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.chkinscripcion.Margin = new System.Windows.Forms.Padding(2);
             this.chkinscripcion.Name = "chkinscripcion";
             this.chkinscripcion.Size = new System.Drawing.Size(470, 17);
             this.chkinscripcion.TabIndex = 1;
@@ -182,7 +182,7 @@
             this.tableLayoutPanel3.Controls.Add(this.label2, 0, 1);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel3.Location = new System.Drawing.Point(10, 338);
-            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(2);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 2;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -193,7 +193,7 @@
             // numTrabajos
             // 
             this.numTrabajos.Location = new System.Drawing.Point(94, 2);
-            this.numTrabajos.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.numTrabajos.Margin = new System.Windows.Forms.Padding(2);
             this.numTrabajos.Name = "numTrabajos";
             this.numTrabajos.Size = new System.Drawing.Size(280, 20);
             this.numTrabajos.TabIndex = 0;
@@ -201,7 +201,7 @@
             // numHijos
             // 
             this.numHijos.Location = new System.Drawing.Point(94, 26);
-            this.numHijos.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.numHijos.Margin = new System.Windows.Forms.Padding(2);
             this.numHijos.Name = "numHijos";
             this.numHijos.Size = new System.Drawing.Size(280, 20);
             this.numHijos.TabIndex = 1;
@@ -247,7 +247,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(490, 528);
             this.Controls.Add(this.TBLPrincipal);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MinimumSize = new System.Drawing.Size(275, 331);
             this.Name = "Form1";
             this.Text = "Form1";

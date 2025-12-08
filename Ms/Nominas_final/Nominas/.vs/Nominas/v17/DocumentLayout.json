@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|solutionrelative:Nominas\\Vista\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\ms\\nominas_final\\nominas\\nominas\\controlador\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|solutionrelative:nominas\\controlador\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Modelo\\Nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|solutionrelative:Nominas\\Modelo\\Nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\nominas\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|solutionrelative:nominas\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|solutionrelative:Nominas\\Vista\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\nominas\\vista\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DCDE06B9-78A5-4059-86A8-708AB77D9114}|Nominas\\Nominas.csproj|solutionrelative:nominas\\vista\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.resx",
+              "RelativeDocumentMoniker": "Nominas\\Vista\\Form1.resx",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.resx",
+              "RelativeToolTip": "Nominas\\Vista\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-01T17:40:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Controlador\\Operacion.cs",
+              "RelativeDocumentMoniker": "Nominas\\Controlador\\Operacion.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Controlador\\Operacion.cs",
+              "RelativeToolTip": "Nominas\\Controlador\\Operacion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:23:02.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nomina.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Modelo\\Nomina.cs",
+              "RelativeDocumentMoniker": "Nominas\\Modelo\\Nomina.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Modelo\\Nomina.cs",
+              "RelativeToolTip": "Nominas\\Modelo\\Nomina.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:15:07.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Nominas\\Vista\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.Designer.cs",
+              "RelativeToolTip": "Nominas\\Vista\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:10:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Nominas\\Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.cs",
+              "RelativeToolTip": "Nominas\\Vista\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wE0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:44:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Nominas\\Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\Ms\\Nominas_final\\Nominas\\Nominas\\Vista\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Nominas\\Vista\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:39:44.967Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\misha\source\repos\Nominas\Nominas\bin\Debug\Nominas.exe.config
+C:\Users\misha\source\repos\Nominas\Nominas\bin\Debug\Nominas.exe
+C:\Users\misha\source\repos\Nominas\Nominas\bin\Debug\Nominas.pdb
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.Form1.resources
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.Properties.Resources.resources
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.csproj.GenerateResource.cache
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.exe
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.pdb
+C:\Users\misha\source\repos\Nominas\Nominas\obj\Debug\Nominas.exe.config

@@ -20,3 +20,14 @@ C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\nomina\nomina\nom
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\nomina\nomina\nomina\obj\Debug\nomina.csproj.CoreCompileInputs.cache
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\nomina\nomina\nomina\obj\Debug\nomina.exe
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\nomina\nomina\nomina\obj\Debug\nomina.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\bin\Debug\nomina.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\bin\Debug\nomina.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\bin\Debug\nomina.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.Form1.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.Properties.Resources.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.csproj.GenerateResource.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\nomina\nomina\nomina\obj\Debug\nomina.pdb
