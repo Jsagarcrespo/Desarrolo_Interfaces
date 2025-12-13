@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="controlador\Operaciones.cs" />
+    <Compile Include="controlador\ControladorOperaciones.cs" />
     <Compile Include="modelo\Circulo.cs" />
     <Compile Include="modelo\Cubo.cs" />
     <Compile Include="modelo\Esfera.cs" />

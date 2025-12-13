@@ -17,9 +17,7 @@ namespace nomina
         public int sueldoSindicato { get; }
         public int sueldoHijos { get; }
         public int sueldoAnisTrabajados { get; }
-
-
-
+        public int NominaTotal { get; private set; }
 
         public Nomina(Modalidad modalidad, bool sindicato, int anios, int numHijos)
         {
@@ -31,6 +29,7 @@ namespace nomina
             this.sueldoModalidad = (int)General.sueldoModalidad[modalidad];
             this.sueldoSindicato = sindicato ? General.extraSindicato : 0;
             this.sueldoHijos = numHijos * General.extraHijos;
+            
 
             if (anios < 5)
             {
@@ -44,6 +43,8 @@ namespace nomina
             {
                 this.sueldoAnisTrabajados = anios * General.extraAniosMas10;
             }
+
+            this.NominaTotal = sueldoModalidad + sueldoSindicato + sueldoHijos + sueldoAnisTrabajados;
         }
 
         public string CalcularNomina()

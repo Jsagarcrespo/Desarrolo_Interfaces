@@ -20,3 +20,14 @@ G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-cal
 G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.CoreCompileInputs.cache
 G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.exe
 G:\Mi unidad\148.DI\2.c#net\2.ejercicios\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Form1.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01_calculadora.Properties.Resources.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.GenerateResource.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\obj\Debug\ejercicio01-calculadora.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\calculadoraOperaciones\ejercicio01-calculadora\ejercicio01-calculadora\bin\Debug\ejercicio01-calculadora.pdb

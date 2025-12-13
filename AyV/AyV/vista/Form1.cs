@@ -137,7 +137,7 @@ namespace AyV
 
         private void BTCalcular_Click(object sender, EventArgs e)
         {
-            Operaciones operaciones = new Operaciones();
+            ControladorOperaciones operaciones = new ControladorOperaciones();
 
             double resultado = 0;
             string magnitud = RBArea.Checked ? "area" : "volumen";

@@ -18,14 +18,15 @@ namespace nomina.controlador
                 throw new Exception("el numero de hijxs tiene que ser un numero entero");
 
             Nomina nomina = new Nomina(modalidad, sindicato, trabajado, hijos);
-            string total = nomina.CalcularNomina();
+            //string total = nomina.CalcularNomina();
 
             return
 $@"{nomina.modalidad} : {nomina.sueldoModalidad}€
 Estar sindicado: {nomina.sueldoSindicato}€
 {nomina.anios} anios trabajados: {nomina.sueldoAnisTrabajados}€
 {nomina.numHijos} hijxs: {nomina.sueldoHijos}€
-Total: {total}€"; 
+Total: {nomina.NominaTotal}€"; 
+// Total: {total}€"; 
         }
     }
 }

@@ -10,9 +10,12 @@ namespace ejercicio01_calculadora.modelo
     {
         public Operacion(double num1, double num2, string tipo)
         {
-            Num1 = num1;
-            Num2 = num2;
-            Tipo = tipo;
+            //Num1 = num1;
+            //Num2 = num2;
+            //Tipo = tipo;
+            this.Num1 = num1;
+            this.Num2 = num2;   
+            this.Tipo = tipo;
         }
 
         public double Num1 { get; set; }

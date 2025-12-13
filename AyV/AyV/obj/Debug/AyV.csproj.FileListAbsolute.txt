@@ -9,3 +9,14 @@ C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\AyV\AyV\obj\Debug
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\AyV\AyV\obj\Debug\AyV.exe
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\AyV\AyV\obj\Debug\AyV.pdb
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\AyV\AyV\obj\Debug\AyV.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\bin\Debug\AyV.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\bin\Debug\AyV.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\bin\Debug\AyV.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.Form1.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.Properties.Resources.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.csproj.GenerateResource.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyV\AyV\obj\Debug\AyV.pdb
