@@ -1,0 +1,11 @@
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.Form1.resources
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.csproj.GenerateResource.cache
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.exe
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.pdb
+C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.exe.config

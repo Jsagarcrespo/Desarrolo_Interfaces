@@ -13,6 +13,7 @@ namespace ejercicio4
 
 
         private String nom, ape1, ape2;
+        //private static double sumarandom = 0;
 
         public Empleado(string nom, string ape1, string ape2, Departamento dept)
         {
@@ -20,8 +21,12 @@ namespace ejercicio4
             this.ape1 = ape1;
             this.ape2 = ape2;
             this.dept = dept;
+
+            //sumarandom += 1.5; 
+
         }
 
+       // public double Sumarandom { get => sumarandom; set => sumarandom = value; }
 
         internal Departamento Dept { get => dept; set => dept = value; }
 

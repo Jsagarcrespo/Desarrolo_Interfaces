@@ -13,7 +13,7 @@ namespace nomina
         public static readonly Dictionary<Modalidad, double> sueldoModalidad =
             new Dictionary<Modalidad, double>
             {
-                { Modalidad.Produccion, 1100.0 },
+                { Modalidad.PRODUCCION, 1100.0 },
                 { Modalidad.ADMINISTRACION, 1400.0 },
                 { Modalidad.TECNICO, 1700.0 },
                 { Modalidad.ESPECIALISTA, 2100.0 }
@@ -26,7 +26,7 @@ namespace nomina
 
         public enum Modalidad
         {
-            Produccion,
+            PRODUCCION,
             ADMINISTRACION,
             TECNICO,
             ESPECIALISTA

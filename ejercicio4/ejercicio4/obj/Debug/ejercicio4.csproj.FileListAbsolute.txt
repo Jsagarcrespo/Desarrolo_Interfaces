@@ -6,3 +6,11 @@ C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio4\ejerci
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb
 C:\Users\sagar\OneDrive\Escritorio\2FDAM\Desarrollo_interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb

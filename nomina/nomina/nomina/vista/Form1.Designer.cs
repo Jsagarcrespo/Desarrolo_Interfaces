@@ -248,7 +248,7 @@
             this.ClientSize = new System.Drawing.Size(490, 528);
             this.Controls.Add(this.TBLPrincipal);
             this.Margin = new System.Windows.Forms.Padding(2);
-            this.MinimumSize = new System.Drawing.Size(275, 331);
+            this.MinimumSize = new System.Drawing.Size(230, 331);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Activated += new System.EventHandler(this.Form1_Activated);

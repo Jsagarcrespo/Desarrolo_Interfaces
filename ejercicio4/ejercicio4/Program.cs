@@ -50,7 +50,7 @@ namespace ejercicio4
                     string ape2 = Console.ReadLine();
 
                     Empleado empleado = new Empleado(nom, ape1, ape2, dept);
-                    dept.Empleados.Add(empleado);
+                    dept.Empl.Add(empleado);
                 }
 
                 departamentos.Add(dept);
@@ -63,12 +63,13 @@ namespace ejercicio4
                 Console.WriteLine($"\nNombre del responsable:{dept.Responsable} ");
 
 
-                if (dept.Empleados.Count != 0)
+                if (dept.Empl.Count != 0)
                 {
                     Console.WriteLine("Empleados");
-                    foreach (var emple in dept.Empleados)
+                    foreach (var emple in dept.Empl)
                     {
                         Console.WriteLine(emple.ToString());
+                        Console.WriteLine(dept.Sumarandom); 
                     }
                 }
                 else

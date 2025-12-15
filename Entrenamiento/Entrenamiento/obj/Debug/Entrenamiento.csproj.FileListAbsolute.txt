@@ -1,0 +1,11 @@
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\bin\Debug\Entrenamiento.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\bin\Debug\Entrenamiento.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\bin\Debug\Entrenamiento.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.Form1.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.Properties.Resources.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.csproj.GenerateResource.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.exe.config
