@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|solutionrelative:factura\\controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\factura_bien\\factura\\factura\\factura\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|solutionrelative:factura\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\modelo\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|solutionrelative:factura\\modelo\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|solutionrelative:factura\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\factura_bien\\factura\\factura\\factura\\controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|solutionrelative:factura\\controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\factura_bien\\factura\\factura\\factura\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|solutionrelative:factura\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\factura_bien\\factura\\factura\\factura\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{36C0688F-6C4E-4FFF-A80C-ED2D36220C37}|factura\\factura.csproj|solutionrelative:factura\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Operaciones.cs",
               "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\modelo\\Operaciones.cs",
               "RelativeDocumentMoniker": "factura\\modelo\\Operaciones.cs",
               "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\modelo\\Operaciones.cs",
               "RelativeToolTip": "factura\\modelo\\Operaciones.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T20:11:49.307Z",
               "EditorCaption": ""
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Controlador.cs",
               "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\factura_bien\\factura\\factura\\factura\\controlador\\Controlador.cs",
               "RelativeDocumentMoniker": "factura\\controlador\\Controlador.cs",

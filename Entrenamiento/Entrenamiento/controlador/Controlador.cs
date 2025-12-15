@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Entrenamiento.modelo; 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web;
-using Entrenamiento.modelo; 
+using System.Windows.Forms;
 
 namespace Entrenamiento.controlador
 {
@@ -38,10 +39,6 @@ $@"Fecha del entrenamiento: {fecha}
 Total permitido: {totalParticipantes}
 Participantes en actividades: {sumaDeParticipantes}
 Duración total de actividades: {sumaDeDuracion} minutos";
-
-
-
-
 
 
         }

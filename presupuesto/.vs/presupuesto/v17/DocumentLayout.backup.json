@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\modelo\\presuppuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|solutionrelative:presupuesto\\modelo\\presuppuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\presupuesto\\presupuesto\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|solutionrelative:presupuesto\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\presupuesto\\presupuesto\\modelo\\presuppuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|solutionrelative:presupuesto\\modelo\\presuppuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\modelo\\consumibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\presupuesto\\presupuesto\\modelo\\consumibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|solutionrelative:presupuesto\\modelo\\consumibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs",
               "RelativeDocumentMoniker": "presupuesto\\vista\\Form1.cs",
               "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs",
               "RelativeToolTip": "presupuesto\\vista\\Form1.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAkwBgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T08:36:26.437Z",
               "EditorCaption": ""
@@ -59,19 +59,20 @@
               "RelativeDocumentMoniker": "presupuesto\\modelo\\Consumibles.cs",
               "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\modelo\\Consumibles.cs",
               "RelativeToolTip": "presupuesto\\modelo\\Consumibles.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:01:44.352Z"
+              "WhenOpened": "2025-12-15T09:01:44.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Presuppuesto.cs",
               "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\modelo\\Presuppuesto.cs",
               "RelativeDocumentMoniker": "presupuesto\\modelo\\Presuppuesto.cs",
               "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\modelo\\Presuppuesto.cs",
               "RelativeToolTip": "presupuesto\\modelo\\Presuppuesto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T08:59:22.65Z",
               "EditorCaption": ""

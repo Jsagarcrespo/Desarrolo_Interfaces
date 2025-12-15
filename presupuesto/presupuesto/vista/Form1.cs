@@ -120,7 +120,7 @@ namespace presupuesto
 
         private void chbNeumatico_CheckedChanged(object sender, EventArgs e)
         {
-            nudNeumatico.Visible = chbPastillas.Checked ? true : false;
+            nudNeumatico.Visible = chbNeumatico.Checked ? true : false;
         }
 
 
@@ -157,7 +157,7 @@ namespace presupuesto
                 }
                 if (chbFiltro.Checked)
                 {
-                    Consumibles consumibles = new Consumibles(chbFiltro.Text, (int)nudAceite.Value);
+                    Consumibles consumibles = new Consumibles(chbFiltro.Text, (int)nudFiltro.Value);
                     pres.Consumibles.Add(consumibles);
 
                 }
@@ -169,15 +169,15 @@ namespace presupuesto
                 }
                 if (chbNeumatico.Checked)
                 {
-                    Consumibles consumibles = new Consumibles(chbAceite.Text, (int)nudAceite.Value);
+                    Consumibles consumibles = new Consumibles(chbAceite.Text, (int)nudNeumatico.Value);
                     pres.Consumibles.Add(consumibles);
 
                 }
 
                 double resultado = pres.SumarConsumibles();
-                string resul = resultado.ToString();
+                //string resul = resultado.ToString();
 
-                MessageBox.Show(resul, "el resultado del precio"); 
+                MessageBox.Show($"precio total: {resultado}", "el resultado del precio"); 
             }
             catch (Exception ex) 
             {
