@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\ejercicio1\\ejercicio1\\",
+  "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\ejercicio1\\ejercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34A2A37F-AE8F-4D66-91B9-025BB2ACA7D8}|ejercicio1\\ejercicio1.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\desarrollo_interfaces\\ejercicio1\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34A2A37F-AE8F-4D66-91B9-025BB2ACA7D8}|ejercicio1\\ejercicio1.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\ejercicio1\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34A2A37F-AE8F-4D66-91B9-025BB2ACA7D8}|ejercicio1\\ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,14 +20,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\ejercicio1\\ejercicio1\\ejercicio1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\ejercicio1\\ejercicio1\\ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\Desarrollo_interfaces\\ejercicio1\\ejercicio1\\ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\ejercicio1\\ejercicio1\\ejercicio1\\Program.cs",
               "RelativeToolTip": "ejercicio1\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T18:33:15.926Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

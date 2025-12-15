@@ -1,0 +1,11 @@
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\bin\Debug\AyVcheckSender.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\bin\Debug\AyVcheckSender.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\bin\Debug\AyVcheckSender.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.Form1.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.Properties.Resources.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.csproj.GenerateResource.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\AyVcheckSender\AyVcheckSender\obj\Debug\AyVcheckSender.exe.config

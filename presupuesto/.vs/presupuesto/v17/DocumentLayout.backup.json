@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|solutionrelative:presupuesto\\modelo\\presuppuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\presupuesto\\presupuesto\\modelo\\consumibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\modelo\\consumibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|solutionrelative:presupuesto\\modelo\\consumibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\presupuesto\\presupuesto\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3C9BC97C-7F54-42D6-A65B-7C6D5F73EA2B}|presupuesto\\presupuesto.csproj|solutionrelative:presupuesto\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,9 +34,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs",
               "RelativeDocumentMoniker": "presupuesto\\vista\\Form1.cs",
-              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs*",
-              "RelativeToolTip": "presupuesto\\vista\\Form1.cs*",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAiwJMAAABlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs",
+              "RelativeToolTip": "presupuesto\\vista\\Form1.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwBgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T08:36:26.437Z",
               "EditorCaption": ""
@@ -45,8 +45,12 @@
         },
         {
           "DockedWidth": 118,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -57,8 +61,7 @@
               "RelativeToolTip": "presupuesto\\modelo\\Consumibles.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:01:44.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T09:01:44.352Z"
             },
             {
               "$type": "Document",
@@ -68,7 +71,7 @@
               "RelativeDocumentMoniker": "presupuesto\\modelo\\Presuppuesto.cs",
               "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\modelo\\Presuppuesto.cs",
               "RelativeToolTip": "presupuesto\\modelo\\Presuppuesto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T08:59:22.65Z",
               "EditorCaption": ""
@@ -79,21 +82,10 @@
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs",
               "RelativeDocumentMoniker": "presupuesto\\vista\\Form1.cs",
-              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "presupuesto\\vista\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\presupuesto\\presupuesto\\vista\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presupuesto\\vista\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T08:12:41.795Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 151,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-12-15T08:12:41.795Z"
             }
           ]
         }

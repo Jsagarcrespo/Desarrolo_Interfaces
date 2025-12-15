@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\AyVcheckSender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093BAFA3-17B4-460B-93D4-B2898B0B0E4F}|AyVcheckSender\\AyVcheckSender.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\ayvchecksender\\ayvchecksender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093BAFA3-17B4-460B-93D4-B2898B0B0E4F}|AyVcheckSender\\AyVcheckSender.csproj|solutionrelative:ayvchecksender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093BAFA3-17B4-460B-93D4-B2898B0B0E4F}|AyVcheckSender\\AyVcheckSender.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\ayvchecksender\\ayvchecksender\\modelo\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093BAFA3-17B4-460B-93D4-B2898B0B0E4F}|AyVcheckSender\\AyVcheckSender.csproj|solutionrelative:ayvchecksender\\modelo\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093BAFA3-17B4-460B-93D4-B2898B0B0E4F}|AyVcheckSender\\AyVcheckSender.csproj|c:\\users\\sagar\\onedrive\\escritorio\\2fdam\\d2\\desarrolo_interfaces\\ayvchecksender\\ayvchecksender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{093BAFA3-17B4-460B-93D4-B2898B0B0E4F}|AyVcheckSender\\AyVcheckSender.csproj|solutionrelative:ayvchecksender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\AyVcheckSender\\AyVcheckSender\\modelo\\Operacion.cs",
+              "RelativeDocumentMoniker": "AyVcheckSender\\modelo\\Operacion.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\AyVcheckSender\\AyVcheckSender\\modelo\\Operacion.cs",
+              "RelativeToolTip": "AyVcheckSender\\modelo\\Operacion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:00:53.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\AyVcheckSender\\AyVcheckSender\\Form1.cs",
+              "RelativeDocumentMoniker": "AyVcheckSender\\Form1.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\AyVcheckSender\\AyVcheckSender\\Form1.cs*",
+              "RelativeToolTip": "AyVcheckSender\\Form1.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwI4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:50:07.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\AyVcheckSender\\AyVcheckSender\\Form1.cs",
+              "RelativeDocumentMoniker": "AyVcheckSender\\Form1.cs",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\Escritorio\\2FDAM\\d2\\Desarrolo_Interfaces\\AyVcheckSender\\AyVcheckSender\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "AyVcheckSender\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:48:58.1Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
