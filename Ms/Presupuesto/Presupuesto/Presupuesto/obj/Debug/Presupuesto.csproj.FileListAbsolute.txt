@@ -9,3 +9,14 @@ C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.csproj.C
 C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.exe
 C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.pdb
 C:\Users\misha\Desktop\C#\Presupuesto\Presupuesto\obj\Debug\Presupuesto.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.Form1.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.csproj.GenerateResource.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\Ms\Presupuesto\Presupuesto\Presupuesto\obj\Debug\Presupuesto.pdb

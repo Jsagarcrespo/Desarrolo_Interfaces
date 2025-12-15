@@ -33,8 +33,8 @@
             this.tblModalidad = new System.Windows.Forms.TableLayoutPanel();
             this.RProduccion = new System.Windows.Forms.RadioButton();
             this.Radministracion = new System.Windows.Forms.RadioButton();
-            this.Rtecnico = new System.Windows.Forms.RadioButton();
             this.Respecialista = new System.Windows.Forms.RadioButton();
+            this.Rtecnico = new System.Windows.Forms.RadioButton();
             this.chkinscripcion = new System.Windows.Forms.CheckBox();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.numTrabajos = new System.Windows.Forms.NumericUpDown();
@@ -52,6 +52,7 @@
             // 
             // TBLPrincipal
             // 
+            this.TBLPrincipal.AutoSize = true;
             this.TBLPrincipal.ColumnCount = 1;
             this.TBLPrincipal.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.TBLPrincipal.Controls.Add(this.gbModalidad, 0, 0);
@@ -64,54 +65,58 @@
             this.TBLPrincipal.Name = "TBLPrincipal";
             this.TBLPrincipal.Padding = new System.Windows.Forms.Padding(8);
             this.TBLPrincipal.RowCount = 4;
-            this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 70F));
+            this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 52.17391F));
             this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle());
             this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle());
-            this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 30F));
-            this.TBLPrincipal.Size = new System.Drawing.Size(490, 528);
+            this.TBLPrincipal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 47.82609F));
+            this.TBLPrincipal.Size = new System.Drawing.Size(293, 328);
             this.TBLPrincipal.TabIndex = 0;
             // 
             // gbModalidad
             // 
+            this.gbModalidad.AutoSize = true;
             this.gbModalidad.Controls.Add(this.tblModalidad);
             this.gbModalidad.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gbModalidad.Location = new System.Drawing.Point(10, 10);
             this.gbModalidad.Margin = new System.Windows.Forms.Padding(2);
             this.gbModalidad.Name = "gbModalidad";
             this.gbModalidad.Padding = new System.Windows.Forms.Padding(2);
-            this.gbModalidad.Size = new System.Drawing.Size(470, 303);
+            this.gbModalidad.Size = new System.Drawing.Size(273, 120);
             this.gbModalidad.TabIndex = 0;
             this.gbModalidad.TabStop = false;
             this.gbModalidad.Text = "Modalidad de trabajo";
             // 
             // tblModalidad
             // 
+            this.tblModalidad.AutoSize = true;
             this.tblModalidad.ColumnCount = 1;
             this.tblModalidad.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tblModalidad.Controls.Add(this.RProduccion, 0, 0);
             this.tblModalidad.Controls.Add(this.Radministracion, 0, 1);
-            this.tblModalidad.Controls.Add(this.Rtecnico, 0, 2);
-            this.tblModalidad.Controls.Add(this.Respecialista, 0, 3);
+            this.tblModalidad.Controls.Add(this.Respecialista, 0, 4);
+            this.tblModalidad.Controls.Add(this.Rtecnico, 0, 3);
             this.tblModalidad.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tblModalidad.Location = new System.Drawing.Point(2, 15);
             this.tblModalidad.Margin = new System.Windows.Forms.Padding(2);
             this.tblModalidad.Name = "tblModalidad";
-            this.tblModalidad.RowCount = 4;
+            this.tblModalidad.RowCount = 6;
             this.tblModalidad.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tblModalidad.RowStyles.Add(new System.Windows.Forms.RowStyle());
             this.tblModalidad.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.tblModalidad.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.tblModalidad.RowStyles.Add(new System.Windows.Forms.RowStyle());
             this.tblModalidad.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tblModalidad.Size = new System.Drawing.Size(466, 286);
+            this.tblModalidad.Size = new System.Drawing.Size(269, 103);
             this.tblModalidad.TabIndex = 0;
             // 
             // RProduccion
             // 
             this.RProduccion.AutoSize = true;
             this.RProduccion.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.RProduccion.Location = new System.Drawing.Point(2, 103);
+            this.RProduccion.Location = new System.Drawing.Point(2, 2);
             this.RProduccion.Margin = new System.Windows.Forms.Padding(2);
             this.RProduccion.Name = "RProduccion";
-            this.RProduccion.Size = new System.Drawing.Size(462, 17);
+            this.RProduccion.Size = new System.Drawing.Size(265, 16);
             this.RProduccion.TabIndex = 0;
             this.RProduccion.TabStop = true;
             this.RProduccion.Tag = "Produccion";
@@ -121,7 +126,7 @@
             // Radministracion
             // 
             this.Radministracion.AutoSize = true;
-            this.Radministracion.Location = new System.Drawing.Point(2, 124);
+            this.Radministracion.Location = new System.Drawing.Point(2, 22);
             this.Radministracion.Margin = new System.Windows.Forms.Padding(2);
             this.Radministracion.Name = "Radministracion";
             this.Radministracion.Size = new System.Drawing.Size(93, 17);
@@ -131,10 +136,23 @@
             this.Radministracion.Text = "Administracion";
             this.Radministracion.UseVisualStyleBackColor = true;
             // 
+            // Respecialista
+            // 
+            this.Respecialista.AutoSize = true;
+            this.Respecialista.Location = new System.Drawing.Point(2, 64);
+            this.Respecialista.Margin = new System.Windows.Forms.Padding(2);
+            this.Respecialista.Name = "Respecialista";
+            this.Respecialista.Size = new System.Drawing.Size(81, 17);
+            this.Respecialista.TabIndex = 3;
+            this.Respecialista.TabStop = true;
+            this.Respecialista.Tag = "Especialista";
+            this.Respecialista.Text = "Especialista";
+            this.Respecialista.UseVisualStyleBackColor = true;
+            // 
             // Rtecnico
             // 
             this.Rtecnico.AutoSize = true;
-            this.Rtecnico.Location = new System.Drawing.Point(2, 145);
+            this.Rtecnico.Location = new System.Drawing.Point(2, 43);
             this.Rtecnico.Margin = new System.Windows.Forms.Padding(2);
             this.Rtecnico.Name = "Rtecnico";
             this.Rtecnico.Size = new System.Drawing.Size(64, 17);
@@ -145,27 +163,14 @@
             this.Rtecnico.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.Rtecnico.UseVisualStyleBackColor = true;
             // 
-            // Respecialista
-            // 
-            this.Respecialista.AutoSize = true;
-            this.Respecialista.Location = new System.Drawing.Point(2, 166);
-            this.Respecialista.Margin = new System.Windows.Forms.Padding(2);
-            this.Respecialista.Name = "Respecialista";
-            this.Respecialista.Size = new System.Drawing.Size(81, 17);
-            this.Respecialista.TabIndex = 3;
-            this.Respecialista.TabStop = true;
-            this.Respecialista.Tag = "Especialista";
-            this.Respecialista.Text = "Especialista";
-            this.Respecialista.UseVisualStyleBackColor = true;
-            // 
             // chkinscripcion
             // 
             this.chkinscripcion.AutoSize = true;
             this.chkinscripcion.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.chkinscripcion.Location = new System.Drawing.Point(10, 317);
+            this.chkinscripcion.Location = new System.Drawing.Point(10, 134);
             this.chkinscripcion.Margin = new System.Windows.Forms.Padding(2);
             this.chkinscripcion.Name = "chkinscripcion";
-            this.chkinscripcion.Size = new System.Drawing.Size(470, 17);
+            this.chkinscripcion.Size = new System.Drawing.Size(273, 17);
             this.chkinscripcion.TabIndex = 1;
             this.chkinscripcion.Text = "Estoy incrit@ en un sindicato";
             this.chkinscripcion.UseVisualStyleBackColor = true;
@@ -181,13 +186,13 @@
             this.tableLayoutPanel3.Controls.Add(this.label1, 0, 0);
             this.tableLayoutPanel3.Controls.Add(this.label2, 0, 1);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(10, 338);
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(10, 155);
             this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(2);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 2;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(470, 48);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(273, 48);
             this.tableLayoutPanel3.TabIndex = 2;
             // 
             // numTrabajos
@@ -195,7 +200,7 @@
             this.numTrabajos.Location = new System.Drawing.Point(94, 2);
             this.numTrabajos.Margin = new System.Windows.Forms.Padding(2);
             this.numTrabajos.Name = "numTrabajos";
-            this.numTrabajos.Size = new System.Drawing.Size(280, 20);
+            this.numTrabajos.Size = new System.Drawing.Size(177, 20);
             this.numTrabajos.TabIndex = 0;
             // 
             // numHijos
@@ -203,7 +208,7 @@
             this.numHijos.Location = new System.Drawing.Point(94, 26);
             this.numHijos.Margin = new System.Windows.Forms.Padding(2);
             this.numHijos.Name = "numHijos";
-            this.numHijos.Size = new System.Drawing.Size(280, 20);
+            this.numHijos.Size = new System.Drawing.Size(177, 20);
             this.numHijos.TabIndex = 1;
             // 
             // label1
@@ -230,12 +235,12 @@
             // 
             this.bCalcular.AutoSize = true;
             this.bCalcular.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bCalcular.Location = new System.Drawing.Point(72, 396);
+            this.bCalcular.Location = new System.Drawing.Point(72, 213);
             this.bCalcular.Margin = new System.Windows.Forms.Padding(64, 8, 64, 8);
             this.bCalcular.MaximumSize = new System.Drawing.Size(230, 91);
             this.bCalcular.MinimumSize = new System.Drawing.Size(110, 43);
             this.bCalcular.Name = "bCalcular";
-            this.bCalcular.Size = new System.Drawing.Size(230, 91);
+            this.bCalcular.Size = new System.Drawing.Size(149, 91);
             this.bCalcular.TabIndex = 3;
             this.bCalcular.Text = "Calcular";
             this.bCalcular.UseVisualStyleBackColor = true;
@@ -245,7 +250,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(490, 528);
+            this.ClientSize = new System.Drawing.Size(293, 328);
             this.Controls.Add(this.TBLPrincipal);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.MinimumSize = new System.Drawing.Size(230, 331);
@@ -256,6 +261,7 @@
             this.TBLPrincipal.ResumeLayout(false);
             this.TBLPrincipal.PerformLayout();
             this.gbModalidad.ResumeLayout(false);
+            this.gbModalidad.PerformLayout();
             this.tblModalidad.ResumeLayout(false);
             this.tblModalidad.PerformLayout();
             this.tableLayoutPanel3.ResumeLayout(false);
@@ -263,6 +269,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.numTrabajos)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numHijos)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 

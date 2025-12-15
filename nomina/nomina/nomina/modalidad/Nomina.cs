@@ -29,7 +29,7 @@ namespace nomina
             this.sueldoModalidad = (int)General.sueldoModalidad[modalidad];
             this.sueldoSindicato = sindicato ? General.extraSindicato : 0;
             this.sueldoHijos = numHijos * General.extraHijos;
-            
+
 
             if (anios < 5)
             {

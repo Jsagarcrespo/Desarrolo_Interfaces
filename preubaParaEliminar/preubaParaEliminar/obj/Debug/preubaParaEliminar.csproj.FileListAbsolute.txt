@@ -1,0 +1,11 @@
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\bin\Debug\preubaParaEliminar.exe.config
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\bin\Debug\preubaParaEliminar.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\bin\Debug\preubaParaEliminar.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.Form1.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.Properties.Resources.resources
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.csproj.GenerateResource.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.exe
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.pdb
+C:\Users\sagar\OneDrive\Escritorio\2FDAM\d2\Desarrolo_Interfaces\preubaParaEliminar\preubaParaEliminar\obj\Debug\preubaParaEliminar.exe.config
